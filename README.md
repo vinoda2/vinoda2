@@ -96,6 +96,8 @@ A **highly motivated Software Consultant** with **3 years of experience** delive
 
 ---
 
+
 ## 🗣 Language Proficiency  
 - 🇮🇳 **Kannada** – Native  
-- 🇬🇧 **English** – Fluent (Speaking, Reading,
+- 🇬🇧 **English** – Fluent (Speaking, Reading, Writing)  
+- 🇮🇳 **Telugu** – Intermediate (Speaking)  
