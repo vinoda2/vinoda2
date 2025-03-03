@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- • 🌎 <a href="https://www.linkedin.com/in/vinodamallappa">Portfolio</a>
+   🌎 <a href="https://www.linkedin.com/in/vinodamallappa">Portfolio</a>
 </p>
 
 ---
@@ -18,11 +18,11 @@
 ## 💼 Software Consultant  
 **Client Services | Software Solutions | Technical Consultation**  
 
-A **highly motivated Software Consultant** with **3 years of experience** delivering customized software solutions across industries. Passionate about **building scalable applications, leading teams, and ensuring smooth deployments**. Expertise in **Java, Spring Boot, Microservices, and Frontend Development**.  
+A **highly motivated Software Consultant** with **3 years of experience** delivering customized software solutions across industries. Passionate about **building scalable applications, leading teams, and ensuring smooth deployments**. Expertise in **Java, Spring Boot, Spring Security, Microservices, and Full-Stack Development**.  
 
 - 🏆 **Expert in Agile & Scrum** for efficient development  
 - 🏗 **Proficient in full-stack development** with Java & React.js  
-- ⚡ **Mentor and team leader**, fostering growth and innovation  
+- ⚡ **Mentor and Monitor**, fostering growth and innovation  
 
 ---
 
@@ -41,7 +41,7 @@ A **highly motivated Software Consultant** with **3 years of experience** delive
 - 💡 Enhanced **performance, scalability, and maintainability** of existing applications.  
 
 #### 🔹 *Software Trainee (Mar 2022 – Feb 2023)*  
-- 📚 Trained in **Java, Spring Boot, Hibernate, React.js, and database management**.  
+- 📚 Trained in **Java, Spring Boot, Spring Security, Hibernate, React.js, and database management**.  
 - 🎯 Assisted in **backend development** and gained hands-on experience in building **RESTful APIs**.  
 - 🔍 Worked on **debugging, performance optimization, and feature enhancements**.  
 
@@ -58,13 +58,22 @@ A **highly motivated Software Consultant** with **3 years of experience** delive
 ### 🚀 Programming Languages & Frameworks  
 - 🟢 **Java 8+** (Lambda, Streams, Optional, Date-Time API)  
 - 🏗 **Spring Boot, Spring MVC, Spring Security**  
-- 🔄 **Hibernate & JPA** (ORM & Database Interaction)  
+- 🔄 **Spring Data JPA, Hibernate (ORM & Database Interaction)**  
 - ⚡ **Microservices, REST APIs, JDBC, Servlets**  
+
+### 🔐 Security & Authentication  
+- 🔑 **Spring Security (JWT, OAuth2, Role-Based Authentication)**  
+- 🔥 **JWT (JSON Web Tokens) for API security**  
+- 🔄 **OAuth 2.0 & SSO (Single Sign-On) Implementation**  
 
 ### 🌐 Web Technologies  
 - 🎨 **HTML5, CSS3, JavaScript, React.js, AJAX**  
 - 🔗 **RESTful APIs & JSON** for backend communication  
 - 🚀 **Swagger & Postman** for API testing  
+
+### 🖥 Database & ORM  
+- 🛢 **MySQL, PostgreSQL, HSQLDB**  
+- ⚙ **Spring Data JPA, Hibernate ORM**  
 
 ### 🖥 Server & Deployment  
 - 🏢 **Apache Tomcat** (Server Deployment)  
@@ -89,15 +98,4 @@ A **highly motivated Software Consultant** with **3 years of experience** delive
 
 ## 🗣 Language Proficiency  
 - 🇮🇳 **Kannada** – Native  
-- 🇬🇧 **English** – Fluent (Speaking, Reading, Writing)  
-- 🇮🇳 **Telugu** – Intermediate (Speaking)  
-
----
-
-## 📢 Get in Touch  
-📧 **[vinodamallappa73@gmail.com](mailto:vinodamallappa73@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/vinodamallappa)**    
-
----
-
-### 🚀 *Let's build something amazing together!*
+- 🇬🇧 **English** – Fluent (Speaking, Reading,
